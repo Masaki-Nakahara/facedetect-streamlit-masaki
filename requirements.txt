@@ -3,3 +3,4 @@ Pillow
 pyocer
 pyocer.builders
 cv2
+numpy
