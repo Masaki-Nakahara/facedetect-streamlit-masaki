@@ -1,6 +1,6 @@
 streamlit 
 Pillow
-pyocer
-pyocer.builders
+pyocr
+pyocr.builders
 cv2
 numpy
