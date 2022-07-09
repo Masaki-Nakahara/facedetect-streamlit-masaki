@@ -1,5 +1,5 @@
 streamlit 
 Pillow
 pyocr
-cv2
+opencv
 numpy
